@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[35]:
-
-
 print("program to check whether number is prime or not")
 num=int(input("enter the number:\n"))
 temp=num
